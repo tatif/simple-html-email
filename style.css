@@ -1,0 +1,110 @@
+body {
+	background-color: #ffffff;
+	padding: 20px 0;
+	margin: 0 auto;
+}
+
+table {
+	max-width:  600px;
+	min-width: 320px;
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin: 0 auto;
+	padding: 0;
+	mso-table-lspace: 0pt; // for MS Outlook
+	mso-table-rspace: 0pt;
+	background-color: #eeeeee;
+}
+
+td {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	outline: none;
+	-ms-interpolation-mode: bicubic; // for quality img display in Explorer7+
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+.td-header {
+	font-family: Arial, Verdana, sans-serif;
+	color: #333333;
+	font-size: 16px;
+	line-height: 22px;
+	mso-line-height-rule: exactly; // for MS Outlook
+	font-style: normal;
+	font-weight: bold;
+	letter-spacing: normal;
+	text-align: center;
+	padding: 15px 5px;
+}
+
+.content-img {
+	width: 100%;
+}
+
+.td-content-text {
+	font-family: Arial, Verdana, sans-serif;
+	color: #333333;
+	font-size: 14px;
+	line-height: 20px;
+	mso-line-height-rule: exactly; // for MS Outlook
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: normal;
+	text-align: left;
+	padding: 15px 10px;
+}
+
+.td-content-button {
+	text-align: center;
+	padding: 20px 0 30px;
+}
+
+.content-button {
+	background-color: #ff0000;
+	font-family: Arial, Verdana, sans-serif;
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 22px;
+	mso-line-height-rule: exactly; // for MS Outlook
+	font-style: normal;
+	font-weight: normal;
+	letter-spacing: normal;
+	padding: 10px 15px;
+}
+
+.table-social-title {
+	font-family: Arial, Verdana, sans-serif;
+	color: #333333;
+	font-size: 16px;
+	line-height: 22px;
+	mso-line-height-rule: exactly; // for MS Outlook
+	font-style: italic;
+	font-weight: normal;
+	text-align: center;
+	letter-spacing: normal;
+	padding: 20px 0 0;
+}
+
+.table-social-buttons {
+	width: 240px;
+}
+
+.td-social-buttons {
+	width: 80px;
+	padding: 0 20px 20px;
+}
+
+.social-img {
+	width: 60px;
+	height: 60px;
+}
